@@ -1,5 +1,5 @@
 # Restaurant
-A mini project on restaurant billing system developed JAVA in third year of my engineering.
+A mini project on restaurant billing system developed JAVA 
 
 It has two modules :
 1) Owner
