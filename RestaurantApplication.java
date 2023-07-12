@@ -130,7 +130,7 @@ class Operations {
 
 public class RestaurantApplication {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
 		RestaurantOwner owner = new RestaurantOwner();
 		Customer customer = new Customer();
 		Scanner sc = new Scanner(System.in);
